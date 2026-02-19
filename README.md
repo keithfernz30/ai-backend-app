@@ -224,6 +224,5 @@ ai-backend-app/
 ## 👨‍💻 Author
 
 Keith Fernandes
-Backend Engineering Practice Project
 
 ---
